@@ -19,7 +19,7 @@ void sieve(){
 	}
 }
 
-// don't use int main here instead use "int32_main" or "signed main()"
+// don't use int main here instead use "int32_t main()" or "signed main()"
 signed main(){
 	sieve();
 	int n;
