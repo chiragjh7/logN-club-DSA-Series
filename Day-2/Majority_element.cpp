@@ -23,7 +23,7 @@ int majority_element(int arr[], int n){
 	return -1;
 }
 
-// Better (Hashing) - O(N) but (N) extra space
+// Better (Hashing) - O(N) but O(N) extra space
 int majorityElement(int arr[], int n){
 	unordered_map<int, int> mpp; // refer STL Library - map(key, values)
 	for(int i = 0; i < n; i++){
