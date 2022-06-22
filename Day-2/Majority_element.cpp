@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// Brute - O(N^2)
+// Brute - O(N^2) - this give you a TLE (Time limit Exceeded - Runtime Error)
 int majority_element(int arr[], int n){
 	int max_cnt = 0;
 	int res = -1;
@@ -43,19 +43,18 @@ int MajorityElement(int arr[], int n){
 	int candidate = 0;
 	for(int i = 0; i < n; i++){
 		if(cnt == 0){
-			candidate = i;
+			candidate = arr[i];
 		}
-		if(arr[i] == arr[candidate]){
+		if(arr[i] == candidate){
 			cnt++;
 		} else{
 			cnt--;
 		}
 	}
-	
 	// check if your candidate is actually the majority element.
 	cnt = 0;
 	for(int i = 0; i < n; i++){
-		if(arr[candidate] == arr[i]){
+		if(candidate == arr[i]){
 			cnt++;
 		}
 	}	
