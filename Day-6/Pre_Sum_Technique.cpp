@@ -2,11 +2,11 @@
 using namespace std;
 
 /*Range based queries - L to R
-  PreSum technique:
+  PreSum technique: formula => ans = pre_sum[r] - pre_sum[l-1]
   example:
   	arr[1, 2, 3, 4] => pre_sum[1, 3, 6, 10]
   	L = 1 to R = 3 => 10 - 1 = 9 (Ans)
-  	L = 0 to R = 3 => 10 (Ans) (edge case on line 32)
+  	L = 0 to R = 3 => 10 (Ans) (this is an edge case thats why we are checking a condition on line 32)
 */
 
 int main(){
