@@ -1,6 +1,6 @@
 # LogN Club - DSA Series 🚀
 
-> Hi 🙋‍♂️, Lets Crack it!
+> Hi 🙋‍♂️, Lets Crack it together!
 
 ## Day 1 (Mathematics)
 
