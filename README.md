@@ -1,4 +1,4 @@
-# DSA Preparation Series 🚀
+# LogN Club - DSA Series 🚀
 
 > Hi 🙋‍♂️, Lets Crack it!
 
