@@ -1,0 +1,7 @@
+Binary Search can be applied on:
+
+1. Monotonic functions - function that maintains an order.
+ex - 1 2 3 4 5 or 5 4 3 2 1
+2. Predicate function - a function that returns true and false.
+ex - T T T T T T F F F F F F F
+
