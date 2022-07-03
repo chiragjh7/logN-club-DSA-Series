@@ -39,10 +39,21 @@
 | Pre-Sum Technique | [link](https://github.com/chiragjh7/dsa-prep/blob/main/Day-6/Pre_Sum_Technique.cpp)
 | Question on Pre-Sum | [link](https://github.com/chiragjh7/dsa-prep/blob/main/Day-6/Question_on_Pre_Sum.cpp)
 
-## Day 7 (Searching)
+## Day 7 - Day 9 (Searching)
 
 | Questions |Code |
 | ------ | ------ |
 | Linear Search |[link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-7/linear_Search.cpp)
 | Binary Search | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-7/Binary_Search.cpp) 
 | Nth Root of a number | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-7/Nth_Root.cpp)
+| Count Occurences | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-8/Count_Occurences.cpp)
+| Index of first Occurence | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-8/index_of_first-occurence.cpp)
+| Index of last occurence | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-8/index_of_last-occurence.cpp)
+| Search Single Element | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-9/Search_Single_element.cpp)
+| Search in Rotated Sorted Array | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-9/Search_in_rotated_sorted_array.cpp)
+| Median of two sorted Array | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-9/Median_in_two_Sorted_array.cpp)
+| kth Position in two sorted array | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-9/Kth_Pos_in_two_sorted_array.cpp)
+| Allocate Minimum Pages | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-9/Allocate_Min_Pages.cpp)
+| Book Allocation Problem | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-9/Book_Allocation.cpp)
+| Painters Partition | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-9/Painters_Partition.cpp)
+| Aggresive Cows | [link](https://github.com/chiragjh7/logN-club-DSA-Series/blob/main/Day-9/Aggresive_Cows.cpp)
